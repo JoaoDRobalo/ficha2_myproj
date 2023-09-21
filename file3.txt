@@ -1,1 +1,5 @@
 Este e um ficheiro de texto file3
+
+Este commit tem o objetivo de atualizar o file3
+
+Este exercicio esta englobado no ambito da ficha 1 de Git
